@@ -1,8 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*
- * main - Determins if a number  is positive or negative or zero
+/**
+ * main - Entry point of the program
+ *
+ * This program generates a random number and checks if it's positive,
+ * negative, or zero.
  *
  * Return: Always 0 (Success)
 */
