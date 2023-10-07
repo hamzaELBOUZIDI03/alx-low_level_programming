@@ -9,6 +9,7 @@ int main(void)
 {
 char aph[26] = "abcdefghijklmnopqrstuvwxyz";
 char aph2[26] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+int i;
 for (i = 0; i < 26; i++)
 {
 putchar(aph[i]);
