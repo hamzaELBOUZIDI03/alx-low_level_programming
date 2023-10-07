@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+/* This program generates a random number and checks if it's positive, negative, or zero. */
 int main(void)
 {
 int n;
