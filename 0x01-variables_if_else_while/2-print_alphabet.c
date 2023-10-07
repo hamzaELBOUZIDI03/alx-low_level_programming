@@ -8,11 +8,11 @@ int main(void)
 {
 char aph[26] = "abcdefghijklmnopqrstuvwxyz";
 int i;
-for (i = 0 ; i < 26 ; i++)
+for (i = 0; i < 26; i++)
 {
 putchar(aph[i]);
 }
-putchar("\n");
+putchar('\n');
 return (0);
 }
 
